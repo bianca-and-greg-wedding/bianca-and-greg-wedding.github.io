@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Venue"
+    url: /venue/
+  - title: "Hotels"
+    url: /hotels/
+  - title: "Boston"
+    url: /boston/
+  - title: "Our Story"
+    url: /our_story/
+  - title: "COVID"
+    url: /covid/
