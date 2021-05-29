@@ -15,7 +15,7 @@ We are working with our caterer to accommodate all dietary restrictions.  Please
 
 #### Venue accessibility
 
-Moraine Farm is entirely wheelchair-accessible, though there are some flat grassy sections.  The bathrooms are ~100ft away from the main reception area, across the grass.  While the cocktail hour and dinner/dancing will have hard floors, the ceremony will be on grass and the bathrooms are ~150ft away from the main reception area, across grass.
+Moraine Farm is entirely wheelchair-accessible, though there are some flat grassy sections.  While the cocktail hour and dinner/dancing will have hard floors, the ceremony will be on grass and the bathrooms are ~150ft away from the main reception area, across grass.
 
 
 #### What's the venue like?
