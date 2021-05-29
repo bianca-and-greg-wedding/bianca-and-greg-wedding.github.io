@@ -4,7 +4,7 @@ title: "Schedule"
 classes: wide
 ---
 
-We're excited to see you! We'll be sure to say hi during the reception itself, but we're also looking forward to spending time with you throughout the weekend:
+We're excited to see you! We'll be sure to say hi during the reception itself, but we're also looking forward to spending time with you throughout the weekend.
 
 |:-:|:-|
 |<img src="/assets/images/pizza.jpg">|**Friday, May 13, 2022**<br/>Evening: Welcome pizza party, location TBD|
