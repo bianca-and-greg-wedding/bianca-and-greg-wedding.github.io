@@ -1,13 +1,13 @@
 main:
   - title: "Schedule"
     url: /schedule/
-  - title: "Venue"
-    url: /venue/
-  - title: "Hotels"
-    url: /hotels/
+  - title: "Travel & Lodging"
+    url: /travel/
   - title: "Boston"
     url: /boston/
   - title: "Our Story"
     url: /our_story/
-  - title: "COVID"
-    url: /covid/
+  - title: "Registry"
+    url: /registry/
+  - title: "FAQ"
+    url: /faq/
