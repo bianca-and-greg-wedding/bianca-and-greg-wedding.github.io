@@ -12,6 +12,11 @@
     padding: 10em 0;
 }
 
+// Get rid of blank space for author sidebar
+.page {
+    width: 100%;
+}
+
 // Sizing for cells in tables (schedule page)
 table td {
     width: 50%;
