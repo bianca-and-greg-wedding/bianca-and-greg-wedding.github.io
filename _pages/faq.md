@@ -20,7 +20,7 @@ Cocktail hour and the ceremony will be outdoors; the reception will be under a t
 
 #### Can I park at the venue?
 
-Yes!  The Estate at Moraine Farm is about 30m north of Boston.  There is plenty of free parking at the venue and there are signs to indicate where to park once you’re on the property.  Just put ‘The Estate at Moraine Farm’ or '719 Cabot St, Beverly, MA' into Google Maps.  If you don’t want to drive, we’ll be offering a shuttle bus from the hotel.
+Yes!  The Estate at Moraine Farm is about 30m north of Boston.  There is plenty of free parking at the venue and there are signs to indicate where to park once you’re on the property.  Just put ‘The Estate at Moraine Farm’ or '719 Cabot St, Beverly, MA' into Google Maps.  If you don’t want to drive, we’ll be offering a shuttle bus from the Kendall Marriott Hotel.
 
 
 #### Are kids invited?
@@ -30,7 +30,7 @@ Yes!  We will have kids’ meals of mac & cheese and chicken fingers available. 
 
 #### What's the dress code?
 
-The dress code for the wedding itself is semi-formal/cocktail attire.  Since dress codes are pretty loosely defined, what we mean by this is: suits, jumpsuits, cocktail dresses, and long dresses are all good! The welcome dinner and farewell brunch are both totally casual.
+The dress code for the wedding itself is semi-formal attire.  Since we've seen many conflicting opinions on the internet about what exactly that is, what we mean by this is: suits, jumpsuits, cocktail dresses, and long dresses are all good!  The welcome dinner and farewell brunch are both totally casual.
 
 
 #### What are you doing about your names?
