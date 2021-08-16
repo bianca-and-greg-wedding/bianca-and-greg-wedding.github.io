@@ -1,6 +1,8 @@
 ---
 permalink: /travel/
 title: "Travel & Lodging"
+header:
+  overlay_image: /assets/images/carc.jpg
 ---
 
 ## Venue
@@ -16,7 +18,7 @@ Down the block is The Kendall Hotel (approx $270/night), a cute smaller hotel.  
 The Kendall Square hotels are in the main Boston/Cambridge metro area about half an hour from the main wedding venue.  We will be providing a shuttle bus from the Marriott Hotel to and from the wedding on Saturday.  The Boston area also has plenty of Airbnbs and other hotels -- Kendall Square has a T station, so you can get there from anywhere in the Boston/Cambridge area to take the shuttle bus to and from the venue.
 
 
-If you'd rather stay closer to the venue, that works too!  There are hotels in the suburbs in Beverly and Peabody which are within a 15m drive of the venue.  There is a lot less public transit out in the suburbs, so if you go this route, you may need to rent a car.  Lyfts and Ubers should be available but probably have slower pickup times than in the city.
+If you'd rather stay closer to the venue, that works too!  There is a lot less public transit out in the suburbs, so if you go this route, you may need to rent a car.  Lyfts and Ubers should be available but probably have slower pickup times than in the city.
 
 A few options near each other and about 15m from the venue and 30-45 minutes from Boston and the airport:
 * Homewood Suites by Hilton Boston-Peabody (estimated $169/night)

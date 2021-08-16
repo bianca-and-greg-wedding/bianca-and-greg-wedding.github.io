@@ -2,6 +2,8 @@
 permalink: /schedule/
 title: "Schedule"
 classes: wide
+header:
+  overlay_image: /assets/images/dancy.jpg
 ---
 
 We're excited to see you! We'll be sure to say hi during the reception itself, but we're also looking forward to spending time with you throughout the weekend.

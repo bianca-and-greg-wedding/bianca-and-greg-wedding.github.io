@@ -6,7 +6,7 @@ header:
 ---
 
 
-Bianca grew up in Massachusetts. As a child she loved books, baking, math, robots, and the groundbreaking 1996 edutainment game [*Logical Journey of the Zoombinis*](https://en.wikipedia.org/wiki/Logical_Journey_of_the_Zoombinis). In high school, she attended the Canada/USA Mathcamp, where she met Valya. After high school, she went off to MIT to study math and robots, where she met Shanté and Mark. After graduating, she moved out to the Bay Area to work on robots and hang out with Valya, Valya's friend Erica, and Shanté and Mark.
+Bianca grew up in Massachusetts. As a child she loved books, baking, math, robots, and the groundbreaking 1996 edutainment game [*Logical Journey of the Zoombinis*](https://en.wikipedia.org/wiki/Logical_Journey_of_the_Zoombinis). In high school, she attended Canada/USA Mathcamp, where she met Valya. After high school, she went off to MIT to study math and robots, where she met Shanté and Mark. After graduating, she moved out to the Bay Area to work on robots and hang out with Valya, Valya's friend Erica, and Shanté and Mark.
 
 Greg grew up in California. As a child he loved books, baking, math, singing, and the watershed Broderbund educational puzzle video game [*Logical Journey of the Zoombinis*](https://en.wikipedia.org/wiki/Logical_Journey_of_the_Zoombinis). In high school, he took a computer science class and discovered that it was easier to debug programs than the physical world, so he decided to study CS instead of biology. After high school, he went off to Princeton, where he met Valya and Erica. After graduating, he returned to the Bay Area to work as a software engineer and hang out with Valya and Erica.
 
@@ -18,7 +18,7 @@ After running into each other again at various escape rooms and parties, Greg de
 <img src="/assets/images/gal2.jpg" title="Goofing around on the Lawn on D :)" width="400">
 <img src="/assets/images/gal3.jpg" title="Returning to our roots and visiting the Coliseum" width="400">
 <img src="/assets/images/gal4.jpg" title="After our first dance together -- Disney Ball where we went as Han and Leia (plus tiny tribble Chewie)" width="400">
-<img src="/assets/images/gal5.jpg" title="Napa Castle trip with Greg's HS crew!" width="400">
+<img src="/assets/images/front.JPG" width="265">
 <img src="/assets/images/gal6.jpg" title="Grease-themed diner dinner" width="300">
 <img src="/assets/images/gal7.jpg" title="Road trip down Highway 1" width="400">
 <img src="/assets/images/gal8.jpg" title="Just two meeples fighting over a castle" width="400">

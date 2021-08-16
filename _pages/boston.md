@@ -1,7 +1,13 @@
 ---
 permalink: /boston/
 title: "Boston"
+header:
+  overlay_image: /assets/images/boston.jpg
 ---
+
+## Locations!
+
+The main metropolitan area of Boston and Cambridge are joined by a solid subway system and are generally pretty interchangeable.  Some of the locations on this list are in Cambridge, some are across the river in Boston.  It's a pretty small area and pretty walkable / public-transit-able. There's plenty of things to do and see in the surrounding areas, but we've focused our list on the Boston/Cambridge metro area since that's where we expect most people will be staying.  The main hotel is technically in Cambridge (but the airport is in Boston).  
 
 ## What to eat
 
@@ -49,7 +55,7 @@ The Hombergs used to have a family membership here; Bianca has many fond memorie
 
 
 #### Boston Common
-There's pretty gardens and lots of green space to walk around.  Don't miss the famous Make Way for Ducklings statues!  You can also find the Freedom Trail starting point here.
+There's pretty gardens and lots of green space to walk around.  Don't miss the famous Make Way for Ducklings statues!  You can also find the Freedom Trail starting point here.  Bonus points if you find the bench we took the header selfie at!
 
 
 #### Faneuil Hall
