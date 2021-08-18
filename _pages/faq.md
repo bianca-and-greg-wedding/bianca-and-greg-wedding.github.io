@@ -7,7 +7,7 @@ header:
 
 #### What about COVID?
 
-We’re planning pretty far out, so we’re hoping that we’ll be able to safely celebrate together.  We will be requesting that all vaccine-eligible adults and children only attend if fully vaccinated by the time of the wedding.  A few months ahead of time, we will take a look at how things are going and, if necessary, reschedule.  
+We’re planning pretty far out, so we’re hoping that we’ll be able to safely celebrate together.  A few months ahead of time, we will take a look at how things are going and, if necessary, reschedule.  We request that all vaccine-eligible adults and children only attend if fully vaccinated (including any available booster shots, if applicable) by the time of the wedding.  If any children are young enough to not be eligible by the time of the wedding, they are still welcome -- we hope to keep them safe by having everyone else be fully vaccinated!
 
 
 #### I have a dietary restriction!

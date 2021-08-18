@@ -7,7 +7,7 @@ header:
 
 ## Locations!
 
-The main metropolitan area of Boston and Cambridge are joined by a solid subway system and are generally pretty interchangeable.  Some of the locations on this list are in Cambridge, some are across the river in Boston.  It's a pretty small area and pretty walkable / public-transit-able. There's plenty of things to do and see in the surrounding areas, but we've focused our list on the Boston/Cambridge metro area since that's where we expect most people will be staying.  The main hotel is technically in Cambridge (but the airport is in Boston).  
+The main metropolitan areas of Boston and Cambridge are joined by a solid subway system and are generally pretty interchangeable.  Some of the locations on this list are in Cambridge, some are across the river in Boston.  It's a pretty small area and pretty walkable / public-transit-able. There's plenty of things to do and see in the surrounding areas, but we've focused our list on the Boston/Cambridge metro area since that's where we expect most people will be staying.  The main hotel is technically in Cambridge (but the airport is in Boston).  
 
 ## What to eat
 
@@ -30,10 +30,10 @@ For a real Boston experience, you can't miss Mike's Pastries for all your Italia
 For the best hot chocolate you'll ever have, you can't miss Burdick's.  We recommend getting a small or splitting with a friend -- this stuff is seriously rich and creamy.  In addition to the standard milk/dark hot chocolate, they also offer a single source hot chocolate of the month, which is always a treat.  Their chocolates and desserts are also delicious.
 
 #### The Mad Monkfish
-Formerly Thelonious Monkfish, this is one of Bianca's favorite sushi restaurants from undergrad.  If you're not allergic, try the cranberry crab rangoons and the sleeping beauty roll.  If you go at the right time, you can also listen to some live jazz.
+Formerly Thelonious Monkfish, this is Bianca's favorite sushi restaurant from undergrad.  If you're not allergic, try the cranberry crab rangoons and the sleeping beauty roll.  If you go at the right time, you can also listen to some live jazz.
 
 #### Clover Food Lab
-When Bianca started college, this was a food truck, but it's since expanded to several brick and mortar stores in the Boston/Cambridge area.  There's one in Kendall Square a few steps from the hotel and another in Harvard Square.  They serve really delicious vegan and vegetarian food -- Bianca loves the chickpea fritter sandwich.  
+When Bianca started college, this was a food truck, but it's since expanded to several brick and mortar locations in the Boston/Cambridge area.  There's one in Kendall Square a few steps from the hotel and another in Harvard Square.  They serve really delicious vegan and vegetarian food -- Bianca loves the chickpea fritter sandwich.  
 
 #### Sebastians Cafe & Catering
 A Distributed Robotics Lab favorite, Sebastian's has quick and tasty sandwiches, salads, pasta, and more.  Bianca has eaten more of their savory crepes than she'd like to count.  This is right down the block from Kendall Square.
@@ -67,7 +67,7 @@ If you want to see a million different types of penguins or pet a baby manta ray
 
 
 #### Freedom Trail
-If you want to replicate a Massachusetts middle school field trip (and enjoy some local history), you should take a walk along the Freedom Trail.  This brick striping in the road brings you by a lot of important buildings and memorials from the Revolutionary War, in addition to walking through a bustling section of Boston.
+If you want to replicate a Massachusetts middle school field trip (and enjoy some local history), you should take a walk along the Freedom Trail.  This brick striping in the sidewalk brings you by a lot of important buildings and memorials from the Revolutionary War, in addition to walking through a bustling section of Boston.
 
 #### Newbury Street
 If you're looking for shopping, this is the place!  There's plenty of stores here as well as the Prudential Center mall.  Stop by Eataly for imported goods & food or Restoration Hardware to feel fancy sitting on very expensive furniture.  There's also plenty of restaurants here, but we haven't tried out many of them.
