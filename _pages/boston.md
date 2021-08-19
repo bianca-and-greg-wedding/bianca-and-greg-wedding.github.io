@@ -63,7 +63,7 @@ A Boston tourist attraction that's definitely worth stopping by.  This long buil
 
 
 #### New England Aquarium
-If you want to see a million different types of penguins or pet a baby manta ray in the petting zoo tan, this is the aquarium for you!  If you're just walking by, you can get a glimpse of a couple seals near the entrance line in an outdoor tank.
+If you want to see a million different types of penguins or pet a baby manta ray in the petting zoo tank, this is the aquarium for you!  If you're just walking by, you can get a glimpse of a couple seals near the entrance line in an outdoor tank.
 
 
 #### Freedom Trail
