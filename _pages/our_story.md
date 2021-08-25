@@ -38,4 +38,8 @@ Their paths first crossed at one of Erica's parties in 2016. Greg was immediatel
 
 After running into each other again at various escape rooms and parties, Greg decided that it was time to express his interest in Bianca. Guessing that she shared his childhood loves of Zoombinis and baking, Greg decided that a Zoombinis + biscotti party was the ideal way to catch her attention (he also invited Valya, Erica, Shanté, and Mark to increase the odds that she would show up). The plan worked - Greg not only got a chance to talk with Bianca about their shared nostalgia for 1990's children's learning software, but he also scored a last minute invite to a ski trip that Mark was organizing. Over the course of a long ride home from Tahoe, their mutual interest became even clearer. Two weeks later, they went on their first date (which of course involved baking cookies), and the rest is history.
 
-{% include gallery caption="Some of our adventures together" src="/assets/images/gal1.jpg" %}
+---
+
+Thank you to everyone who has been a part of our life, from our beginnings through our time together so far!  We'd especially like to thank our parents, who have done so much for us (in particular, introducing us to Zoombinis), and our families.  We'd also like to thank our wedding party -- Derek, Elliot, Emily, Erica, Hannah, Jordan, Kathrina, Kunal, Mark, Ryan, Shanté, Steven, and Valya -- for supporting us through all of our crazy plots (both the wedding and all of our various miscellaneous adventures)!
+
+{% include gallery caption="Some of our adventures together!" src="/assets/images/gal1.jpg" %}
