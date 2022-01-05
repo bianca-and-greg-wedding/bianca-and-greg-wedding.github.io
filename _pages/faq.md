@@ -35,6 +35,11 @@ Yes!  We will have kids’ meals of mac & cheese and chicken fingers available. 
 The dress code for the wedding itself is semi-formal attire.  Since we've seen many conflicting descriptions on the internet about what exactly that is, what we mean by this is: suits, jumpsuits, cocktail dresses, and long dresses are all good!  (No one will be wearing a tux.)  The welcome dinner and farewell brunch are both totally casual.
 
 
+#### What's this I hear about a recipe guestbook?
+
+For our guestbook, we'd love to collect your favorite recipe in addition to your signature. :)  We'll have a three ring binder to collect them all -- please bring your recipe on a standard 8.5x11 piece of paper; we'll have plastic sleeves to make inserting them easy.
+
+
 #### What are you doing about your names?
 
 We’ll both be keeping our names legally & for work!  But socially, please feel free to refer to us as the Oberg Family. :)

@@ -7,5 +7,9 @@ main:
     url: /boston/
   - title: "Our Story"
     url: /our_story/
+  - title: "RSVP"
+    url: /rsvp/
+  - title: "Registry"  
+    url: /registry/
   - title: "FAQ"
     url: /faq/
