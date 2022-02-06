@@ -56,11 +56,6 @@ Yes!  We're going to have a few musicians from a local dueling piano bar (with t
 We’ll both be keeping our names legally & for work!  But socially, please feel free to refer to us as the Oberg Family. 
 
 
-#### Aren't you already legally married?
-
-Because of COVID, we planned a mini wedding in February with just our immediate families in case we had to delay our large wedding.  We are still going to have a ceremony at our wedding in May and are so looking forward to celebrating with all of you!
-
-
 #### I have another question!
 
 Feel free to reach out to biancagregwedding@gmail.com with any other questions!  Or, you know, reach out however you normally would.
