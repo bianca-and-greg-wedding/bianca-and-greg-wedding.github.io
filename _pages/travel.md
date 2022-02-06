@@ -28,7 +28,7 @@ A few options near each other and about 15m from the venue and 30-45 minutes fro
 
 ## Transit within Boston
 
-The subway system within Boston and Cambridge is called the T.  It is mostly underground but also has some above ground sections.  A one way ticket on the subway is $2.40.  You can pay cash for a single ticket at a station or put money on a CharlieCard if you'll be making multiple trips.  There's also a large bus network.  Bus tickets are $1.70 one way and can also be paid for in cash or with a CharlieCard.  The subway is generally reliable and comes ~every 5 minutes during commuting hours.  It comes less frequently (~every 20m) on weekends and nights.  You can view more information on mbta.com/schedules/subway -- schedules are changing frequently due to the pandemic.
+The subway system within Boston and Cambridge is called the T.  It is mostly underground but also has some above ground sections.  A one way ticket on the subway is $2.40.  You can pay cash for a single ticket at a station or put money on a CharlieCard if you'll be making multiple trips.  There's also a large bus network.  Bus tickets are $1.70 one way and can also be paid for in cash or with a CharlieCard.  The subway is generally reliable and comes ~every 5 minutes during commuting hours.  It comes less frequently (~every 20m) on weekends and nights.  You can view more information on [the MBTA website](mbta.com/schedules/subway) -- schedules are changing frequently due to the pandemic.
 
 The Marriott Hotel is on the same block as the Kendall/MIT T stop.  The Kendall/MIT T stop is on the Red Line.  The Kendall/MIT T station has an elevator, as does South Station.  
 
