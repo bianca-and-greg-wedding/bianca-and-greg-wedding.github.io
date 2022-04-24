@@ -9,9 +9,17 @@ header:
 
 The wedding itself will take place at The Estate at Moraine Farm, a venue about half an hour north of Boston in Beverly, MA.  Our Friday welcome dinner and Sunday morning farewell brunch will take place in the Boston/Cambridge area, all accessible by public transit (details TBD).
 
+## Shuttle
+
+If you marked on your RSVP that you'd be taking the shuttle, then there is space reserved for you on the shuttle.  If you did not indicate that you'd be taking the shuttle, please let us know ASAP.  There are limited extra seats available.  If you said you'd be taking the shuttle but changed your mind, please also let us know in case anyone else wants a seat.
+
+The shuttle will pick up at 3:15PM outside the Boston Marriott at the car turnaround on Broadway (NOT on Main St).  Please arrive early to make sure you don't miss the shuttle!
+
+The shuttle will return to the hotel ~10:45PM.
+
 
 ## Hotels
-We have a hotel block at the Marriott Hotel (50 Broadway, Cambridge MA, 02142) in Kendall Square of Cambridge, MA for 5/13/2022-5/15/2022.  Rooms with a single king bed ($239/night) and double queen beds ($259/night) are available.  However, prices tend to fluctuate, so you may want to check whether it's cheaper to book directly or with points.  We'll add a link to book once we have it; in the mean time, you can call them at 1(800)228-9290 or (617)494-6600 by April 22, 2022 and ask to reserve as part of the Bianca & Greg Wedding Room Block.
+We have a hotel block at the Boston Marriott Cambridge (50 Broadway, Cambridge MA, 02142) in Kendall Square of Cambridge, MA (but the deadline to book via the room block has passed).  If you'd like, you still can book them directly on your own.
 
 Down the block is The Kendall Hotel (approx $270/night), a cute smaller hotel.  They didn't have room blocks available but may be a good option as well!
 
@@ -30,7 +38,9 @@ A few options near each other and about 15m from the venue and 30-45 minutes fro
 
 The subway system within Boston and Cambridge is called the T.  It is mostly underground but also has some above ground sections.  A one way ticket on the subway is $2.40.  You can pay cash for a single ticket at a station or put money on a CharlieCard if you'll be making multiple trips.  There's also a large bus network.  Bus tickets are $1.70 one way and can also be paid for in cash or with a CharlieCard.  The subway is generally reliable and comes ~every 5 minutes during commuting hours.  It comes less frequently (~every 20m) on weekends and nights.  You can view more information on [the MBTA website](mbta.com/schedules/subway) -- schedules are changing frequently due to the pandemic.
 
-The Marriott Hotel is on the same block as the Kendall/MIT T stop.  The Kendall/MIT T stop is on the Red Line.  The Kendall/MIT T station has an elevator, as does South Station.  
+The Marriott Hotel is on the same block as the Kendall/MIT T stop.  The Kendall/MIT T stop is on the Red Line.  The Kendall/MIT T station has an elevator, as does South Station.
+
+Right now, there's some construction on the Red Line and sometimes the subway is replaced with a shuttle bus between the same subway stations.  If that happens, there'll be clear signage, but you should check the MBTA website for the latest updates.
 
 
 ## Airport

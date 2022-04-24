@@ -5,15 +5,23 @@ header:
   overlay_image: /assets/images/ptreyes.JPG
 ---
 
+#### Shuttle Details
+
+If you marked on your RSVP that you'd be taking the shuttle, then there is space reserved for you on the shuttle.  If you did not indicate that you'd be taking the shuttle, please let us know ASAP.  There are limited extra seats available.  If you said you'd be taking the shuttle but changed your mind, please also let us know in case anyone else wants a seat.
+
+The shuttle will pick up at 3:15PM outside the Boston Marriott at the car turnaround on Broadway (NOT on Main St).  Please arrive early to make sure you don't miss the shuttle!
+
+It will return to the hotel and drop off ~10:45PM.
+
 #### What about COVID?
 
 Given that COVID seems to be here to stay (and case counts will hopefully be a lot lower as we approach summer), we're planning to move forward with the wedding in as safe a way as possible.  We are requiring that all vaccine-eligible adults and children only attend if fully vaccinated (including boosters, if applicable) by the time of the wedding.  If any children are young enough to not be eligible by the time of the wedding, they are still welcome -- we hope to keep them safe by having everyone else be fully vaccinated!
 
-In addition, as many events as possible will be outdoors.  For the wedding itself, the ceremony and cocktail hour will be outdoors; dinner will be under a tent.  If it rains, everything will be under a tent (but we'll leave the sides open to allow ventilation).
+In addition, as many events as possible will be outdoors.  For the wedding itself, the ceremony and cocktail hour will be outdoors; dinner will be under a tent.  If it rains, the cocktail hour will be indoors and the ceremony and dinner will be under the tent (but we'll leave the sides open to allow ventilation).
 
-We're still figuring out our locations for the welcome event + post-wedding brunch.  We're hoping to do outdoors (or at least private indoor) events if we can, but we'll make sure that you have full information when you RSVP for the wedding weekend events (we'll send an email ~April) so you can decide which event(s) you're comfortable attending. 
+The welcome pizza party and farewell brunch are both hosted at a location that is partially outdoors/indoors.  You are certainly welcome to stay on the outdoor portion for the entire event (though you'll need to walk through the indoor section to get to the outdoor section).  
 
-We are not currently planning to require testing before the wedding, though we do certainly hope that you'll stay home or get a PCR test if you're feeling sick!
+We are not going to require testing before the wedding, though we do certainly hope that you'll stay home or get a PCR test if you're feeling sick!
 
 
 #### I have a dietary restriction!
@@ -30,6 +38,10 @@ Cocktail hour and the ceremony will be outdoors; the reception will be under a t
 
 Yes!  The Estate at Moraine Farm is about 30 minutes north of Boston.  There is plenty of free parking at the venue and there are signs to indicate where to park once you’re on the property.  Just put ‘The Estate at Moraine Farm’ or '719 Cabot St, Beverly, MA' into Google Maps.  If you don’t want to drive, we’ll be offering a shuttle bus from the Kendall Marriott Hotel.  Please let us know if you're interested in the shuttle in your RSVP form so we can ensure there is space for everyone interested.  We would like to request that everyone wear masks while on the shuttle.
 
+
+#### How do I get to the welcome party / farewell brunch location?
+
+Both the welcome party and farewell brunch are at 281 Concord Avenue, Cambridge, MA 02138.  It’s ~an 18m walk from the Porter Square T station (on the red line) or an 11m drive from the Boston Marriott Cambridge.  There’s free street parking in the area.  Note: the red line seems to be under construction right now and may be replaced with a shuttle bus.  It’s generally well signed, but when I’ve had to take that bus before, it picked up right outside the Boston Marriott Cambridge, on the Main Street side.  
 
 #### Are kids invited?
 
