@@ -40,6 +40,6 @@ After running into each other again at various escape rooms and parties, Greg de
 
 ---
 
-Thank you to everyone who has been a part of our life, from our beginnings through our time together so far!  We'd especially like to thank our parents, who have done so much for us (in particular, introducing us to Zoombinis), and our families.  We'd also like to thank our wedding party -- Derek, Elliot, Emily, Erica, Hannah, Jordan, Kathrina, Kunal, Mark, Ryan, Shanté, Steven, and Valya -- for supporting us through all of our crazy plots (both the wedding and all of our various miscellaneous adventures)!
+Thank you to everyone who has been a part of our life, from our beginnings through our time together so far!  We'd especially like to thank our parents, who have done so much for us (in particular, introducing us to Zoombinis), and our families.  We'd also like to thank our wedding party -- Debora Sullivan, Derek Nielsen, Elliot Owen, Emily Kohn, Erica Portnoy, Hannah Rosenfeld, Jordan Varney, Kathrina Onate, Kunal Sahasrabuddhe, Mark Velednitsky, Ryan Feng, Shanté Stowell, Steven Homberg, and Valya Barboy -- for supporting us through all of our crazy plots (both the wedding and all of our various miscellaneous adventures)!
 
 {% include gallery caption="Some of our adventures together!" src="/assets/images/gal1.jpg" %}
